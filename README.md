@@ -1,8 +1,6 @@
 # marked
 
-It forked from [chjj/marked](https://github.com/chjj/marked).
-
-Add TeX syntax support.
+It forked from [chjj/marked](https://github.com/chjj/marked) and I added TeX syntax support.
 
 ## TeX Syntax
 
