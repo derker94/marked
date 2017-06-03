@@ -4,7 +4,9 @@ It forked from [chjj/marked](https://github.com/chjj/marked) and I added TeX syn
 
 ## TeX Syntax
 
-You can use `$...$` for inline statements or `$...$` for block. For example,
+You can use `$...$` for inline statements or `$...$` for block. 
+
+For example：
 
 **inline**
 
